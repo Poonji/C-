@@ -12,7 +12,7 @@ bool isPresent(int arr[3][4],int target,int row,int col){
 }
 int main(){
     int arr[3][4];
-    cout<<"enter the array\n";
+    cout<<"enter the array\n"; 
     for(int row=0;row<3;row++){
         for(int col=0;col<4;col++){
             cin>>arr[row][col];
